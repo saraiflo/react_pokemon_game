@@ -1,0 +1,32 @@
+.Pokedex {
+  text-align: center;
+}
+.Pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.Pokedex-winner {
+  color: #4caf50;
+}
+
+.Pokedex-loser {
+  color: #e91e63;
+}
+
+/* .game-results {
+  color: pink;
+  /* display: flex; */
+/* justify-content: center; */
+/* flex-wrap: wrap; */
+/* text-align: center; */
+/* background-color: red; */
+/* width: 100px;
+  padding: 10px;
+  margin: 1rem; */
+/* box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56); */
+/* text-align: center; */
+/* background-color: blue; */
+/* border-radius: 3px; */
+/* }  */
